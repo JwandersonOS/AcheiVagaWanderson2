@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "90393996134",
+    "firebase_url": "https://acheivagawanderson2.firebaseio.com",
+    "project_id": "acheivagawanderson2",
+    "storage_bucket": "acheivagawanderson2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90393996134:android:b8216ce47d109699",
+        "android_client_info": {
+          "package_name": "com.example.wanderson.acheivagawanderson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90393996134-fq4ubi9ge0975fobotkv8k2cu1raf4l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wanderson.acheivagawanderson",
+            "certificate_hash": "6127918eff8b1afa1cb34a88123d634a510e7f71"
+          }
+        },
+        {
+          "client_id": "90393996134-70e9nnigb76fotv73qlogho9b3n9h63j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDy5tnqE3fZt2FrQs7gn8lFbqs7ml6XXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90393996134-70e9nnigb76fotv73qlogho9b3n9h63j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
